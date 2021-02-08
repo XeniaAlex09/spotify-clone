@@ -1,2 +1,2 @@
 # spotify-clone
-spotify clone created with Bootstrap5
+spotify clone created with Bootstrap5 🚀
